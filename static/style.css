@@ -1,0 +1,23 @@
+form {
+    padding: 20px;
+    border: 2px solid black;
+    width: 300px;
+}
+
+label {
+    color: teal;
+}
+select, input {
+    display: block;
+    padding: 10px;
+}
+#results_wrapper {
+    padding: 20px;
+    border: 2px solid black;
+    width: 300px;
+}
+p {
+    color: teal;
+    display: block;
+    padding: 10px;
+}
